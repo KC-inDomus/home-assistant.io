@@ -25,7 +25,7 @@ The WebDAV entities are updated roughly every 15 minutes.
 
 {% include integrations/config_flow.md %}
 
-During the configuraiton flow you will be asked for the CalDAV server and credentials
+During the configuration flow you will be asked for the CalDAV server and credentials
 for it. An example CalDAV URL is `https://caldav.icloud.com/`.
 
 This integration was tested against [iCloud Calendar](https://www.icloud.com/calendar/), [Nextcloud](https://nextcloud.com/), [Owncloud](https://owncloud.org/), [Baikal](https://sabre.io/baikal/). Any integration complying with the RFC4791 should work.
